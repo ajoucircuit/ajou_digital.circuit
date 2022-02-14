@@ -1,1 +1,1 @@
-# AES alrotihm
+# AES algorithm
